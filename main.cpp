@@ -4,7 +4,7 @@
 
 
 int main (){
-    std::cout << "1 Hello CPP============" << std::endl;
+    std::cout << "1 Hello Kolya ============" << std::endl;
 
     std::cout << "2 Hello CPP============" << std::endl;
     
